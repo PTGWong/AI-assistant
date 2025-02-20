@@ -30,8 +30,8 @@ pip install -r requirements.txt
 
 ```env
 # OpenAI兼容API配置
-openai_api_key = your-api-key-here
-openai_api_base = https://your-api-endpoint.com/v1
+OPENAI_API_KEY=your_api_key_here
+OPENAI_API_BASE=https://your-api-endpoint.com/v1
 ```
 ## 🚀 启动应用
 
